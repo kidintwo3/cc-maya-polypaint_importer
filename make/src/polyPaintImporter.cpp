@@ -9,6 +9,7 @@
  //Usage (Python command):
 	//					- Select object from zbrush
 	//					- Type in the Python command (name of the source obj):
+    //                  - import maya.cmds as cmds
 	//					- cmds.polyPaintImporter("D:/vertcol.OBJ", gamma=2.2)
 
  //==========================================================================
