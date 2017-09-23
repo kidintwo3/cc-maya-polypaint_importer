@@ -30,6 +30,7 @@
 
 # Make files
 /make/build/*
+/CMakeFiles/*
 
 # =========================
 # Operating System Files

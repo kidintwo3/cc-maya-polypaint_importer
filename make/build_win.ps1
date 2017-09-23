@@ -1,7 +1,7 @@
-$versions = @("2015","2016","2016.5","2017")
+$versions = @("2016","2016.5","2017","2018")
 $op_system = "win"
 $plugin_name = "polypaint_importer"
-$destination_dir = "p:/Maya/GitHub/cc-maya-polypaint_importer/build/"+$op_system+"/"
+$destination_dir = "c:/WORK/_admin/git/cc-maya-polypaint_importer/build/"+$op_system+"/"
 
 
 
