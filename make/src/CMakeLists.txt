@@ -1,4 +1,4 @@
-set(SOURCE_FILES "PluginMain.cpp" "polyPaintImporter.h" "polyPaintImporter.cpp")
+set(SOURCE_FILES "pluginMain.cpp" "polyPaintImporter.h" "polyPaintImporter.cpp")
 
 find_package(Maya REQUIRED)
 
