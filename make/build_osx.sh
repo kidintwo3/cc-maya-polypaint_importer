@@ -1,4 +1,4 @@
-versions=('2014' '2015' '2016' '2016.5' '2017')
+versions=('2016' '2016.5' '2017' '2018')
 op_system='mac'
 plugin_name='polypaint_importer'
 make_dir='/Users/hunyadijanos/Documents/GIT/cc-maya-polypaint_importer/make/build/'$op_system'/'
