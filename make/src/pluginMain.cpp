@@ -19,7 +19,7 @@ MStatus initializePlugin( MObject obj )
 
 	//MGlobal::executeCommand( mel_createShelf() );
 
-	MFnPlugin fnPlugin( obj, "Creative Case", "0.5", "Any" );
+	MFnPlugin fnPlugin( obj, "Creative Case", "0.51", "Any" );
 
 	status = fnPlugin.registerCommand( "polyPaintImporter", polyPaintImporter::creator, polyPaintImporter::newSyntax );
 	CHECK_MSTATUS_AND_RETURN_IT( status );
